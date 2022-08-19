@@ -1,44 +1,44 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Georg Klauda
+title: Georg Klauda
+description: Soziologe & Webentwickler
+
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - LGBT
+  - Queer
+  - Geschichte
+  - Politik
+  - Islam
 show_hero: true
 menu:
   - title: Home
     url: /
   - title: About
     url: /about
-  - title: Contact
+  - title: Kontakt
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: georg.klauda@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: mqkjknng
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+twitter_username: georgklauda
+facebook_username: georgklauda
+#github_username: github_username
+#instagram_username: instagram_username
+#linkedin_username: linkedin_username
+#medium_username: medium_username
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
@@ -47,11 +47,54 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+#google_analytics: ""
+language: "de"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
+
+# Translations
+translations:
+  text:
+    new_post: "Neuer Post"
+    see_also: "Siehe auch"
+    search: "Suche"
+    author: "Autor"
+    share: "Teilen"
+    comments: "Kommentare"
+  button:
+    read_now: "Jetzt lesen"
+    share_on_twitter: "Auf Twitter teilen"
+    share_on_facebook: "Auf Facebook teilen"
+  pagination:
+    page: "Seite"
+    of: "von"
+    next_page: "Nächste Seite"
+    next_post: "Vorherige Seite"
+  recommendation:
+    text: "Warum liest du nicht noch etwas anderes?"
+    back_btn: "Zurück nach oben"
+  error_404:
+    title: "Seite nicht gefunden :("
+    message: "Sorry, ich konnte die Seite nicht finden, nach der du suchst."
+    image_alt: "404 - Seite nicht gefunden"
+  contact:
+    title: "Rede mit mir"
+    subject: "Neuer Kontakt!"
+    submit_btn: "Abschicken"
+    placeholders:
+      name: "Dein Name"
+      email: "Deine E-Mail"
+      message: "Deine Nachricht"
+    errors:
+      locale: "de"
+      empty_name: "Der Name ist ein Pflichtfeld"
+      empty_email: "Die E-Mail ist ein Pflichtfeld"
+      invalid_email: "Die E-Mail ist ungültig"
+      empty_message: "Nachricht erforderlich"
+    after_send:
+      title: "Mitteilung versendet!"
+      message: "Danke, dass du mir eine Mitteilung sendest."
 
 # Build settings
 markdown: kramdown
@@ -61,7 +104,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator

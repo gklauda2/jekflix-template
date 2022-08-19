@@ -1,0 +1,41 @@
+translations:
+  text:
+    new_post: "Neuer Post"
+    see_also: "Siehe auch"
+    search: "Suche"
+    author: "Autor"
+    share: "Teilen"
+    comments: "Kommentare"
+  button:
+    read_now: "Jetzt lesen"
+    share_on_twitter: "Auf Twitter teilen"
+    share_on_facebook: "Auf Facebook teilen"
+  pagination:
+    page: "Seite"
+    of: "von"
+    next_page: "Nächste Seite"
+    next_post: "Vorherige Seite"
+  recommendation:
+    text: "Warum liest du nicht noch etwas anderes?"
+    back_btn: "Zurück nach oben"
+  error_404:
+    title: "Seite nicht gefunden :("
+    message: "Sorry, ich konnte die Seite nicht finden, nach der du suchst."
+    image_alt: "404 - Seite nicht gefunden"
+  contact:
+    title: "Rede mit mir"
+    subject: "Neuer Kontakt!"
+    submit_btn: "Abschicken"
+    placeholders:
+      name: "Dein Name"
+      email: "Deine E-Mail"
+      message: "Deine Nachricht"
+    errors:
+      locale: "de"
+      empty_name: "Der Name ist ein Pflichtfeld"
+      empty_email: "Die E-Mail ist ein Pflichtfeld"
+      invalid_email: "Die E-Mail ist ungültig"
+      empty_message: "Nachricht erforderlich"
+    after_send:
+      title: "Mitteilung versendet!"
+      message: "Danke, dass du mir eine Mitteilung sendest."
