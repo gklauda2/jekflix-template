@@ -86,6 +86,8 @@ footer {
   }
 }
 
+body.light footer a { color: #505050; fill: #606060; }
+
 .main-page {
   footer {
     background: $primaryDark;

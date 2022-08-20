@@ -49,7 +49,7 @@
   }
 
   .def {
-    color: gray;
+    color: darken($lightGray, 60%);
     font-size: rem(18px);
     @include mainFont(300);
     margin: rem(10px);
