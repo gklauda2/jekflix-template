@@ -44,11 +44,6 @@ layout: main
     <section id="grid" class="row flex-grid">
         {% for post in posts offset: offset %}
             <article class="box-item">
-                <span class="category">
-                    <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
-                        <span>{{ post.category }}</span>
-                    </a>
-                </span>
                 <div class="box-body">
                     <a class="cover" href="{{ post.url | prepend: site.baseurl }}" aria-label="Mehr erfahren über {{ post.title }}">
                         {% include loader.html %}
@@ -175,8 +170,6 @@ layout: main
                     }
                 },
                 "mainEntityOfPage": "True",
-                "genre": "{{ post.category | capitalize }}",
-		        "articleSection": "{{ post.category | capitalize }}",
                 "keywords": [{{ post.tags | join: '","' | append: '"' | prepend: '"' }}]
             }{% if forloop.last == false  %},{% endif %}
         {% endfor %}
