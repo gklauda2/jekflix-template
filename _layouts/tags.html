@@ -4,7 +4,7 @@ layout: minimal
 
 {% assign date_format = site.date_format | default: "%m/%d/%Y" %}
 
-<div class="tags">
+<div class="tags" role="navigation" aria-label="Tags">
   {% assign tags_list = site.tags %}
     {% if tags_list.first[0] == null %}
       {% for tag in tags_list %}
