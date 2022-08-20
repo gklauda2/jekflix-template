@@ -44,11 +44,11 @@
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
                                     {% if post.optimized_image %}
-                                        <img src="{{ post.optimized_image }}">
+                                        <img src="{{ post.optimized_image }}" alt="{{ post.alt }}">
                                     {% elsif post.image %}
-                                        <img src="{{ post.image }}">
+                                        <img src="{{ post.image }}" alt="{{ post.alt }}">
                                     {% else %}
-                                        <img src="/assets/img/off.jpg">
+                                        <img src="/assets/img/off.jpg" alt="Placeholder">
                                     {% endif %}
                                     <h3>{{ post.title }}</h3>
                                 </a>
