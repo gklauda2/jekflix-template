@@ -4,6 +4,7 @@ title: "Die queere Bedrohung"
 date: 2017-06-20
 tags: Queer Aktivismus
 description: Ein neuer Sammelband verspricht Kritik am »queeren Aktivismus«. Herausgekommen ist ein Konvolut antideutscher Beißreflexe.
+category: rezension
 image: /assets/img/uploads/angry-bare-teeth.gif
 alt: Wolf fletscht Zähne (animiertes Gif)
 ---

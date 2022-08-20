@@ -26,15 +26,7 @@
         </url>
     
         <url>
-            <loc>https://georgklauda.de/category/blog/</loc>
-            
-                <changefreq>monthly</changefreq>
-                <priority>0.5</priority>
-            
-        </url>
-    
-        <url>
-            <loc>https://georgklauda.de/category/code/</loc>
+            <loc>https://georgklauda.de/category/buch/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -50,15 +42,7 @@
         </url>
     
         <url>
-            <loc>https://georgklauda.de/category/css/</loc>
-            
-                <changefreq>monthly</changefreq>
-                <priority>0.5</priority>
-            
-        </url>
-    
-        <url>
-            <loc>https://georgklauda.de/category/diet/</loc>
+            <loc>https://georgklauda.de/category/essay/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -82,14 +66,6 @@
         </url>
     
         <url>
-            <loc>https://georgklauda.de/category/life/</loc>
-            
-                <changefreq>monthly</changefreq>
-                <priority>0.5</priority>
-            
-        </url>
-    
-        <url>
             <loc>https://georgklauda.de/contact/message-sent/</loc>
             
                 <changefreq>monthly</changefreq>
@@ -98,7 +74,7 @@
         </url>
     
         <url>
-            <loc>https://georgklauda.de/category/music/</loc>
+            <loc>https://georgklauda.de/assets/css/preview.css</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -106,7 +82,7 @@
         </url>
     
         <url>
-            <loc>https://georgklauda.de/assets/css/preview.css</loc>
+            <loc>https://georgklauda.de/category/rezension/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -139,38 +115,6 @@
     
         <url>
             <loc>https://georgklauda.de/tags/</loc>
-            
-                <changefreq>monthly</changefreq>
-                <priority>0.5</priority>
-            
-        </url>
-    
-        <url>
-            <loc>https://georgklauda.de/category/tips/</loc>
-            
-                <changefreq>monthly</changefreq>
-                <priority>0.5</priority>
-            
-        </url>
-    
-        <url>
-            <loc>https://georgklauda.de/category/travel/</loc>
-            
-                <changefreq>monthly</changefreq>
-                <priority>0.5</priority>
-            
-        </url>
-    
-        <url>
-            <loc>https://georgklauda.de/category/tutorial/</loc>
-            
-                <changefreq>monthly</changefreq>
-                <priority>0.5</priority>
-            
-        </url>
-    
-        <url>
-            <loc>https://georgklauda.de/category/work/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>

@@ -5,6 +5,7 @@ subtitle: Europa und die Heteronormalisierung der islamischen Welt
 date: 2018-02-01
 tags: Islam Queer Buch
 description: Europa und die Heteronormalisierung der islamischen Welt
+category: buch
 image: /assets/img/uploads/serail-cover.webp
 alt: Die Vertreibung aus dem Serail - Cover-Bild
 ---

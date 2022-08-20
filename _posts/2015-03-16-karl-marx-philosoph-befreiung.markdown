@@ -4,6 +4,7 @@ title: Karl Marx – Philosoph der Befreiung oder Theoretiker des Kapitals
 date: 2015-03-17
 tags: Ökonomie Klasse Buch
 description: Der im Frühjahr 2015 im Wiener Mandelbaum-Verlag von Karl Reitter herausgegebene Sammelband <em>Karl Marx – Philosoph der Befreiung oder Theoretiker des Kapitals?</em> ist der Kritik der sog. neuen Marx-Lektüre gewidmet.
+category: buch
 image: /assets/img/uploads/marx-lektuere.webp
 alt: Karl Marx – Philosoph der Befreiung (Ausschnitt Inhaltsverzeichnis)
 ---
