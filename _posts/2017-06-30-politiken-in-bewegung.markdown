@@ -5,6 +5,7 @@ date: 2017-07-30
 tags: Queer Aktivismus Buch
 description: Anfang 2017 erschien in der Waldschlösschen-Edition zur »Geschichte der Homosexuellen in Deutschland nach 1945« der fünfte Band, der erstmals auch die großen Entwicklungslinien im 20. Jahrhundert in den Blick nimmt.
 image: /assets/img/uploads/politiken-in-bewegung.webp
+alt: Politiken in Bewegung – Geschichte der Homosexuellen in Deutschland (Cover-Bild)
 ---
 
 Anfang 2017 erschien in der Waldschlösschen-Edition zur „Geschichte der 
