@@ -166,7 +166,7 @@
   }
 
   a {
-    color: $themeColor;
+    color: darken($themeColor, 10%);
     text-decoration: none;
 
     &:hover {
