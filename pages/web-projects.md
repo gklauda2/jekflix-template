@@ -10,6 +10,8 @@ tags:
   - JavaScript
   - SPA
 ---
+<img src="/assets/img/uploads/code.webp" alt="Javascript Code">
+
 I'm a professional fullstack developer from Berlin. Starting with the traditional LAMP stack, I moved towards SPA development with VueJS and npm/yarn in recent years. But I'm also very much fluent in the advanced possibilites of SQL (recursive CTE, Window Functions), which I used in developing efficient marketplace algorithms for e-commerce platforms. My latest projects include:
 
 * **Collaborative Development of an API-driven rental software commissioned by a Swiss bike company**\
