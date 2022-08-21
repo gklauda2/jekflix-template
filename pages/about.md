@@ -5,7 +5,7 @@ date: 2022-08-21 16:43:12
 title: About
 permalink: /about/
 ---
-<img align="left" src="/assets/img/uploads/profile.webp" alt="Georg Klauda" width="150" height="179" class="post-cover">
+<img style="margin-left: 0" src="/assets/img/uploads/profile.webp" alt="Georg Klauda" width="150" height="179" class="post-cover">
 
 # About
 
