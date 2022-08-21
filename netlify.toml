@@ -3,7 +3,8 @@
   [headers.values]
     cache-control = '''
     max-age=365000000,
-    public'''
+    public,
+    must-revalidate'''
 
 [[headers]]
   for = "/assets/fonts/*"
