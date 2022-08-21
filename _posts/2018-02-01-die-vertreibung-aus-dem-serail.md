@@ -9,7 +9,8 @@ image: /assets/img/uploads/serail-cover.webp
 category: buch
 tags: Islam Queer
 author: gklauda
-paginate: true
+paginate: false
+featured: true
 ---
 Islamische Staaten geraten durch die Verfolgung Homosexueller immer wieder in den Blickpunkt der westlichen Medien, die solche Vorfälle gern als Zeichen kultureller Rückständigkeit interpretieren. Einige Bundesländer schlugen deshalb vor, Muslime im Einbürgerungsverfahren nach ihrer Einstellung zu Homosexuellen zu befragen. Zeigen sich deklassierte Halbstarke aus Migrantenfamilien aggressiv gegenüber Schwulen, werden reflexhaft religiöse Motive unterstellt.
 

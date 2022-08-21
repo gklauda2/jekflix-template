@@ -90,6 +90,11 @@ collections:
         displayFields: [display_name]
         searchFields: [display_name]
         valueField: "name"
+      - label: "Featured"
+        name: "featured"
+        widget: "boolean"
+        default: false
+        required: false
       - label: "Paginate"
         name: "paginate"
         widget: "boolean"

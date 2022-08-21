@@ -117,11 +117,12 @@ echo "subtitle:"
 echo "description:"
 echo "image:"
 echo "optimized_image:"
+echo "alt:"
 echo "category:"
 echo "tags:"
 echo "author:"
 echo "paginate: false"
-echo "alt:"
+echo "featured: false"
 echo "---"
 
 }
