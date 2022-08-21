@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img align="left" src="/assets/img/uploads/profile.jpg" alt="Georg Klauda" width="150" height="179">
+<img align="left" src="/assets/img/uploads/profile.webp" alt="Georg Klauda" width="150" height="179">
 
 # About
 
