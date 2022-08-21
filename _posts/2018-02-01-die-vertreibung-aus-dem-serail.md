@@ -20,8 +20,19 @@ Anhand zahlreicher historischer und aktueller Quellen belegt der Autor, dass die
 
 Män­ner­schwarm, 2008-2018 (6 Auflagen). Kart. – 168 S.
 
+### Stimmen
+
+»Bleibt zum Schluss nur noch zu sagen: was für ein tolles und erkenntnisreiches Buch!« —*Graswurzelrevolution* Nr. 350 (2010)
+
+»Es ist beeindruckend, auf welch engem Raum Klauda hier nicht nur Historisches darlegt, sondern auch weitgehende Thesen entwickelt.« —Jakob Schmidt, <em>Phase 2</em> Nr. 32 (2009) <a href="https://www.phase-zwei.org/hefte/artikel/materialistische-gender-geschichtsschreibung-194" aria-label="Rezension lesen">lesen...</a>
+
+»Klaudas Buch hat mit Anhang zwar gerade mal 170 Seiten, aber auf denen knallt’s und scheppert’s ganz famos, und das auf hohem theoretischen Niveau« —Dirk Ruder, <em>Gigi</em> Nr. 58 (2008)
+
+»Es ist, um es gleich zu sagen, einer der in Deutschland seit Jahren profundesten Beiträge zur sexualpolitischen Debatte geworden.« —Salih Alexander Wolter, <em>Rosige Zeiten</em> Nr. 119 (2008) <a href="https://schwule-seite.de/georg-klauda-die-vertreibung-aus-dem-serail-europa-und-die-heteronornmalisierung-der-islamischen-welt/" aria-label="Rezension lesen">lesen...</a>
+
+
 ### Leseprobe
 
-Eine Vorversion des ersten Kapitels find sich in der Nr. 10 (Dez. 2003) der Zeitschrift *Phase 2* unter dem Titel [»Globalizing Homophobia«](https://www.phase-zwei.org/hefte/artikel/globalizing-homophobia-1831).
+Eine frühe Vorversion des ersten Kapitels find sich in der Nr. 10 (Dez. 2003) der Zeitschrift *Phase 2* unter dem Titel [»Globalizing Homophobia«](https://www.phase-zwei.org/hefte/artikel/globalizing-homophobia-1831).
 
 Antiquarisch im [ZVAB »](https://www.zvab.com/servlet/BookDetailsPL?bi=31140014472) | Als PDF bei [buchhandel.de »](https://www.buchhandel.de/buch/Die-Vertreibung-aus-dem-Serail-9783863000295) |  [Zum Verlag »](https://www.maennerschwarm.de/buch/die-vertreibung-aus-dem-serail/)
