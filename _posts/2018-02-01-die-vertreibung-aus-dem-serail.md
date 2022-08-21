@@ -24,11 +24,11 @@ Män­ner­schwarm, 2008-2018 (6 Auflagen). Kart. – 168 S.
 
 »Bleibt zum Schluss nur noch zu sagen: was für ein tolles und erkenntnisreiches Buch!« —*Graswurzelrevolution* Nr. 350 (2010)
 
-»Es ist beeindruckend, auf welch engem Raum Klauda hier nicht nur Historisches darlegt, sondern auch weitgehende Thesen entwickelt.« —Jakob Schmidt, <em>Phase 2</em> Nr. 32 (2009) <a href="https://www.phase-zwei.org/hefte/artikel/materialistische-gender-geschichtsschreibung-194" aria-label="Rezension lesen">lesen...</a>
+»Es ist beeindruckend, auf welch engem Raum Klauda hier nicht nur Historisches darlegt, sondern auch weitgehende Thesen entwickelt.« —Jakob Schmidt, <em>Phase 2</em> Nr. 32 (2009) <a href="https://www.phase-zwei.org/hefte/artikel/materialistische-gender-geschichtsschreibung-194" aria-label="Rezension lesen">online lesen...</a>
 
 »Klaudas Buch hat mit Anhang zwar gerade mal 170 Seiten, aber auf denen knallt’s und scheppert’s ganz famos, und das auf hohem theoretischen Niveau« —Dirk Ruder, <em>Gigi</em> Nr. 58 (2008)
 
-»Es ist, um es gleich zu sagen, einer der in Deutschland seit Jahren profundesten Beiträge zur sexualpolitischen Debatte geworden.« —Salih Alexander Wolter, <em>Rosige Zeiten</em> Nr. 119 (2008) <a href="https://schwule-seite.de/georg-klauda-die-vertreibung-aus-dem-serail-europa-und-die-heteronornmalisierung-der-islamischen-welt/" aria-label="Rezension lesen">lesen...</a>
+»Es ist, um es gleich zu sagen, einer der in Deutschland seit Jahren profundesten Beiträge zur sexualpolitischen Debatte geworden.« —Salih Alexander Wolter, <em>Rosige Zeiten</em> Nr. 119 (2008) <a href="https://schwule-seite.de/georg-klauda-die-vertreibung-aus-dem-serail-europa-und-die-heteronornmalisierung-der-islamischen-welt/" aria-label="Rezension lesen">online lesen...</a>
 
 
 ### Leseprobe
