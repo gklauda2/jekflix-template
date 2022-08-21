@@ -7,7 +7,4 @@
 
   for = "/assets/fonts/*"
   [headers.values]
-    cache-control = '''
-    max-age=365000000,
-    public
     immutable'''
