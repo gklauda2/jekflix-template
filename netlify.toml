@@ -1,15 +1,9 @@
 [[headers]]
   for = "/assets/*"
   [headers.values]
-    cache-control = '''
-    max-age=365000000,
-    public,
-    must-revalidate'''
+    cache-control = '''max-age=365000000, public, must-revalidate'''
 
 [[headers]]
   for = "/assets/fonts/*"
   [headers.values]
-    cache-control = '''
-    max-age=365000000,
-    public
-    immutable'''
+    cache-control = '''max-age=365000000, public, immutable'''
