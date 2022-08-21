@@ -1,7 +1,8 @@
+date_format: "%d.%m.%Y"
+formspree_form_id: mqkjknng
 name: Georg Klauda
 title: Georg Klauda | Soziologe, Autor &amp; VueJS Developer
 description: Bücher, Essays und Rezensionen zu queeren und rassismuskritischen Themen
-
 tags:
   - LGBT
   - Queer
@@ -18,10 +19,6 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+  - title: Web projects
+    url: /web-projects
 email: georg.klauda@gmail.com
-# See: https://disqus.com/
-# disqus_username: disqus_username
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: mqkjknng
-date_format: '%d.%m.%Y'
