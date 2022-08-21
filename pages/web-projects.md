@@ -14,7 +14,7 @@ tags:
 
 I'm a Berlin-based full stack/VueJS developer. Starting with the traditional LAMP stack, I moved towards SPA development with the reactive Vue framework and npm/yarn in recent years. But I'm also very much fluent in the advanced possibilites of SQL (recursive CTE, Window Functions), which I used in developing efficient marketplace algorithms for e-commerce platforms. My latest projects include:
 
-* **Collaborative Development of an API-driven rental software commissioned by a Swiss bike company**\
+* **Collaborative development of an API-driven rental software commissioned by a Swiss bike company**\
   (Vue 3 Composition API, Quasar Framework)
 * **Development of a page builder as design tool for web shop operators**\
   (Single Page Application via npm, Vue 2, Quasar and TipTap)
