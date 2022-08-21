@@ -5,6 +5,7 @@
     max-age=365000000,
     public
 
+[[headers]]
   for = "/assets/fonts/*"
   [headers.values]
     immutable'''
