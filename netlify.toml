@@ -1,5 +1,5 @@
 [[headers]]
-  for = "/assets/fonts/*"
+  for = "/assets/*"
   [headers.values]
     cache-control = '''
     max-age=365000000,
