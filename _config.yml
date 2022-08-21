@@ -25,6 +25,7 @@ email: georg.klauda@gmail.com
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: mqkjknng
+date_format: '%d.%m.%Y'
 
 
 # Social Media Settings
@@ -40,17 +41,17 @@ facebook_username: georgklauda
 # Posts Settings
 show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
+show_modal_on_finish_post: false
 two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://georgklauda.de" # the base hostname & protocol for your site
-google_analytics: "G-BW4MPVXY52"
-language: "de"
+baseurl: ""
+url: "https://gklauda.netlify.app"
+google_analytics: G-BW4MPVXY52
+language: de
 categories_folder: category
-sent_message_url: "/contact/message-sent/"
+sent_message_url: /contact/message-sent/
 
 
 # Translations

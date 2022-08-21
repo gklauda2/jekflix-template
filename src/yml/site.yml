@@ -24,3 +24,4 @@ email: georg.klauda@gmail.com
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: mqkjknng
+date_format: '%d.%m.%Y'

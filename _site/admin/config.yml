@@ -67,6 +67,11 @@ collections:
         allow_multiple: false
         required: false
         hint: "You can set an optimized image version to show on the home page"
+      - label: "Image Alt Text"
+        name: "alt"
+        widget: "string"
+        allow_multiple: false
+        required: false
       - label: "Category"
         name: "category"
         widget: "relation"
@@ -89,6 +94,7 @@ collections:
         name: "paginate"
         widget: "boolean"
         default: false
+        required: false
       - label: "Body"
         name: "body"
         widget: "markdown"
@@ -490,6 +496,7 @@ collections:
             name: "baseurl"
             widget: "string"
             hint: "The subpath of your site, e.g. /blog"
+            required: false
           - label: "URL"
             name: "url"
             widget: "string"
