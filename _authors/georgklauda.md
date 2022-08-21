@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.jpg
+photo: /assets/img/uploads/profile.webp
 name: gklauda
 display_name: Georg Klauda
 bio: Soziologe | Web Developer
