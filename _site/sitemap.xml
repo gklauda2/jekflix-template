@@ -18,14 +18,6 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/about/</loc>
-            
-                <changefreq>monthly</changefreq>
-                <priority>0.5</priority>
-            
-        </url>
-    
-        <url>
             <loc>https://gklauda.netlify.app/category/buch/</loc>
             
                 <changefreq>monthly</changefreq>
@@ -115,6 +107,14 @@
     
         <url>
             <loc>https://gklauda.netlify.app/tags/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>https://gklauda.netlify.app/web-projects/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
