@@ -69,7 +69,7 @@ collections:
         hint: "You can set an optimized image version to show on the home page"
       - label: "Image Alt Text"
         name: "alt"
-        widget: "alt"
+        widget: "string"
         allow_multiple: false
         required: false
       - label: "Category"
