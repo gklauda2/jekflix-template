@@ -80,8 +80,10 @@
 <!-- Include the website scripts -->
 <script src="{{ '/assets/js/scripts.min.js' | prepend: site.baseurl }}"></script>
 
+{% comment %}
 <!-- Include Google Analytics script -->
 {% include stats.html %}
+{% endcomment %}
 
 <!-- Include extra scripts -->
 {% include extra-js.html %}
