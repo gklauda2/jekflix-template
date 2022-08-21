@@ -2,15 +2,16 @@
 layout: page
 menu: true
 date: 2022-08-21 15:34:55
-title: Web Projects
-permalink: /web-projects/
-description: My Web Projects
+title: webdev
+permalink: /webdev/
+description: My job as web developer
 tags:
   - VueJS
   - JavaScript
   - SPA
 ---
-<img src="/assets/img/uploads/code.webp" alt="Javascript Code" class="post-cover">
+## webdev
+<img src="/assets/img/uploads/code.webp" alt="Javascript Code">
 
 I'm a self-trained full stack/VueJS developer residing in Berlin with years of professional experience. Starting with the traditional LAMP stack and excelling in advanced SQL algorithms, I gradually moved towards SPA development. In recent years I chiefly coded in JavaScript, utilizing the reactive Vue framework, and really love to carry on in that direction (though I sometimes do miss SQL). My latest projects include:
 

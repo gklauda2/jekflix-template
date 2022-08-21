@@ -17,8 +17,8 @@ menu:
     url: /about
   - title: Kontakt
     url: /contact
-  - title: Web projects
-    url: /web-projects
+  - title: Webdev
+    url: /webdev
   - title: Feed
     url: /feed.xml
 email: georg.klauda@gmail.com
