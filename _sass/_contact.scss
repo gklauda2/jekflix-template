@@ -61,6 +61,7 @@ $font-size: 12pt;
         letter-spacing: 2px;
         transition: .2s all ease-in-out;
         border-bottom: 2px solid transparent;
+        margin: $font-size 0;
         outline: none;
 
         &:hover {
@@ -73,6 +74,7 @@ $font-size: 12pt;
         padding: 0 20px;
         display: flex;
         justify-content: space-between;
+        flex-wrap: wrap;
         align-items: center;
     }
     iframe {
