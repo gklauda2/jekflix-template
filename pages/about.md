@@ -7,7 +7,7 @@ permalink: /about/
 ---
 <img style="margin-left: 0" src="/assets/img/uploads/profile.webp" alt="Georg Klauda" width="150" height="159" class="post-cover">
 
-<h2>About</h2>
+<h1 class="post-title">About</h1>
 
 Geb. 1974, Studium der Soziologie, Geschichte & Linguistik in Erlangen und Berlin mit Abschluss Diplom. Schwerpunkte historische Soziologie, Sozial- und Kulturgeschichte; Geschichte der Sexualität. Politische Autorschaft in verschiedenen Zeitschriften.
 
