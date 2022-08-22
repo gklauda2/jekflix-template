@@ -72,9 +72,13 @@ $font-size: 12pt;
         }
     }
     form > div {
+        padding: 0 20px;
         display: flex;
         justify-content: space-between;
         align-items: center;
+    }
+    iframe {
+        margin: 0;
     }
     ::selection {
         background: rgb(255, 199, 184);
