@@ -6,13 +6,13 @@ layout: page
 
   <form name="contact" method="POST" data-netlify="true" action="/contact/message-sent">
     <p>
-      <label>Name <em>&#x2a;</em> <input type="text" name="name" /></label>
+      <label>Name <em>&#x2a;</em> <input type="text" name="name" required /></label>
     </p>
     <p>
-      <label>E-Mail <em>&#x2a;</em> <input type="email" name="email" /></label>
+      <label>E-Mail <em>&#x2a;</em> <input type="email" name="email" required /></label>
     </p>
     <p>
-      <label>Nachricht <em>&#x2a;</em> <textarea name="message"></textarea></label>
+      <label>Nachricht <em>&#x2a;</em> <textarea name="message" required></textarea></label>
     </p>
     <p>
       <button type="submit" arial-label="Nachricht senden">Abschicken</button>
