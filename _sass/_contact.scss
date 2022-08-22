@@ -1,7 +1,10 @@
 $form-bg: #f8f4e5;
 $font-size: 12pt;
 
-form[name=contact] {
+.form-container {
+    margin: 0px auto;
+    max-width: 600px;
+
     label {
         text-transform: uppercase;
     }
