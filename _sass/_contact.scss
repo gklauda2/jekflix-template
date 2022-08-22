@@ -71,9 +71,10 @@ $font-size: 12pt;
             border-bottom: 2px solid darken($themeColor, 10%);
         }
     }
-    .row {
+    > div {
         display: flex;
         justify-content: space-between;
+        align-items: center;
     }
     ::selection {
         background: rgb(255, 199, 184);
