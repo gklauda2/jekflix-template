@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>https://gklauda.netlify.app/404.html</loc>
+            <loc>https://www.georgklauda.de/404.html</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -10,7 +10,7 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/about/</loc>
+            <loc>https://www.georgklauda.de/about/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -18,7 +18,7 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/category/buch/</loc>
+            <loc>https://www.georgklauda.de/category/buch/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -26,7 +26,7 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/contact/</loc>
+            <loc>https://www.georgklauda.de/contact/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -34,7 +34,7 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/category/essay/</loc>
+            <loc>https://www.georgklauda.de/category/essay/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -42,7 +42,7 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/feed.xml</loc>
+            <loc>https://www.georgklauda.de/feed.xml</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -50,7 +50,7 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/</loc>
+            <loc>https://www.georgklauda.de/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -58,7 +58,7 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/contact/message-sent/</loc>
+            <loc>https://www.georgklauda.de/contact/message-sent/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -66,7 +66,7 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/assets/css/preview.css</loc>
+            <loc>https://www.georgklauda.de/assets/css/preview.css</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -74,7 +74,7 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/category/rezension/</loc>
+            <loc>https://www.georgklauda.de/category/rezension/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -82,7 +82,7 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/search.json</loc>
+            <loc>https://www.georgklauda.de/search.json</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -90,7 +90,7 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/sitemap.xml</loc>
+            <loc>https://www.georgklauda.de/sitemap.xml</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -98,7 +98,7 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/assets/css/styles.css</loc>
+            <loc>https://www.georgklauda.de/assets/css/styles.css</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -106,7 +106,7 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/tags/</loc>
+            <loc>https://www.georgklauda.de/tags/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -114,7 +114,7 @@
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/webdev/</loc>
+            <loc>https://www.georgklauda.de/webdev/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -123,42 +123,42 @@
     
     
         <url>
-            <loc>https://gklauda.netlify.app/die-vertreibung-aus-dem-serail/</loc>
+            <loc>https://www.georgklauda.de/die-vertreibung-aus-dem-serail/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2018-02-01</lastmod>
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/politiken-in-bewegung/</loc>
+            <loc>https://www.georgklauda.de/politiken-in-bewegung/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2017-07-30</lastmod>
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/angriff-der-homocons/</loc>
+            <loc>https://www.georgklauda.de/angriff-der-homocons/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2017-07-11</lastmod>
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/die-queere-bedrohung/</loc>
+            <loc>https://www.georgklauda.de/die-queere-bedrohung/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2017-06-20</lastmod>
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/muslime-sind-die-neuen-katholiken/</loc>
+            <loc>https://www.georgklauda.de/muslime-sind-die-neuen-katholiken/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2015-03-17</lastmod>
         </url>
     
         <url>
-            <loc>https://gklauda.netlify.app/karl-marx-philosoph-befreiung/</loc>
+            <loc>https://www.georgklauda.de/karl-marx-philosoph-befreiung/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2015-03-17</lastmod>
@@ -166,7 +166,7 @@
     
     
         <url>
-            <loc>https://gklauda.netlify.app/authors/georgklauda/</loc>
+            <loc>https://www.georgklauda.de/authors/georgklauda/</loc>
             <changefreq>monthly</changefreq>
             <priority>0.5</priority>
         </url>
