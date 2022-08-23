@@ -33,10 +33,12 @@
           {% endif %}
         </p>
     
-        {% include links.html %}  
-    </div>
-    <p>Made with <a href="https://jekflix.rossener.com/" class="creator" aria-label="Link zum Blog Theme">Jekflix</a></p>
-</footer>
+        {% include links.html %}
+        <p class="attribution">
+          # <a href="https://jekflix.rossener.com/" class="creator" aria-label="Link zum Theme">Jekflix</a> theme
+        </p>
+      </div>
+  </footer>
 
 {% assign social_urls = '' %}
 {% if site.github_username %}

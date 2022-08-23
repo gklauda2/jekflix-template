@@ -91,6 +91,8 @@ footer {
       }
     }
   }
+
+  font-size: rem(15px);
 }
 
 body.light footer a {  }
@@ -100,14 +102,13 @@ body.light footer a {  }
     background: $primaryDark;
     border-top: 1px solid lighten($primaryDark, 10%);
     
-    p {
-      color: $accentDark;
+    p, li {
+      color: #808080;
     }
 
     a {
       fill: #808080;
       color: #808080;
-      font-weight: normal;
     }
   }
 }
