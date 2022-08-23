@@ -2,10 +2,10 @@
 date: 2017-07-11
 layout: post
 title: Angriff der Homocons
-description: In einer weiteren Besprechung des Sammelbandes »Beißreflexe«
-  arbeite ich die Kritik am »queeren Aktivismus« als den Versuch einiger der
-  Autor*innen heraus, die Rechte von Homosexuellen für neokonservative
-  Kriegspolitik und antimuslimischen Rassismus zu instrumentalisieren.
+description: Auf *kritisch lesen* arbeite ich die jüngere Kritik am »queeren
+  Aktivismus« als den Versuch heraus, die Rechte von Homosexuellen für
+  neokonservative Kriegspolitik und antimuslimischen Rassismus zu
+  instrumentalisieren.
 image: /assets/img/uploads/homocons.webp
 alt: Homocons. The Rise of the Gay Right (Cover-Bild Richard Goldstein, 2003)
 category: rezension
