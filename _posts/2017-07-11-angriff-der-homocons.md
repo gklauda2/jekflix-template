@@ -2,8 +2,8 @@
 date: 2017-07-11
 layout: post
 title: Angriff der Homocons
-description: Auf *kritisch lesen* arbeite ich die jüngere Kritik am »queeren
-  Aktivismus« als den Versuch heraus, die Rechte von Homosexuellen für
+description: Auf <em>kritisch lesen</em> arbeite ich die jüngere Kritik am
+  »queeren Aktivismus« als den Versuch heraus, die Rechte von Homosexuellen für
   neokonservative Kriegspolitik und antimuslimischen Rassismus zu
   instrumentalisieren.
 image: /assets/img/uploads/homocons.webp
