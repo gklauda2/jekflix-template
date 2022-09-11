@@ -13,7 +13,7 @@ author: gklauda
 ---
 In *[Angriff der Homocons](https://kritisch-lesen.de/rezension/angriff-der-homocons)* analysiere ich, wie Autoren des Bandes »Beißreflexe« die Rechte von Homosexuellen für antimuslimischen Rassismus und neokonservative Kriegspolitik instrumentalisieren.
 
-Die von manchen kritisierte Überschrift ist eine Anspielung auf Richard Goldsteins 2003 erschienenes Buch *Homocons. The Rise of the Gay Right*, das den Aufstieg einer Reihe konservativer schwuler Publizisten wie A. Sullivan, C. Paglia und B. Bawer in den 90er Jahren auf die Publikationsentscheidungen liberaler Medien und ihren politischen Ausverkauf der »queeren Community« zurückführte.
+Die von manchen kritisierte Überschrift ist eine Anspielung auf Richard Goldsteins 2003 erschienenes Buch *Homocons. The Rise of the Gay Right*, das den Aufstieg einer Reihe konservativer schwuler und lesbischer Publizist_innen wie A. Sullivan, C. Paglia und B. Bawer in den 90er Jahren auf die Publikationsentscheidungen liberaler Medien und ihren politischen Ausverkauf der »queeren Community« zurückführte.
 
 Wie sehr sich diese politische Einordnung mittlerweile bewahrheitet hat, zeigt sich nicht nur an den zahlreichen, immer offener rassistischen Texten, die in derselben Reihe folgten, sondern etwa auch daran, wie der in dieser Rezension prominent besprochene Autor Vojin Saša Vukadinović, der auch sonst medial die meiste Aufmerksamkeit auf sich zog, in den letzten Jahren dazu übergegangen ist, die radikale Sozialstaatsgegnerin Ayn Rand, Vordenkerin eines von allen sozialen Rücksichten befreiten Kapitalismus, in Vorträgen, Interviews und Artikeln als neue Ikone des Feminismus zu bewerben.
 
