@@ -10,4 +10,4 @@ category: rezension
 tags: Queer Aktivismus
 author: gklauda
 ---
-Mein Kritik an dem im Frühjahr 2017 von Patsy L’Amour LaLove edierten Sammelband zur »Kritik an queerem Aktivismus« zeigt am <a href="https://archiv.akweb.de/ak_s/ak628/20.htm" aria-label="Artikel in analyse & kritik lesen">infamen Umgang mit zwei Buchautoren</a>, denen aufgrund ihrer Kritik an schwuler Identitätspolitik der Vorwurf des »homosexuellen Selbsthasses« gemacht wird, dass die Mehrheit der Beiträge gegen ideologische Abweichler in Wahrheit genau die gleichen autoritären Beißreflexe an den Tag legt, die sie bei anderen aufgeregt beklagen.
+Mein Kritik an dem im Frühjahr 2017 von Patsy L’Amour LaLove edierten Sammelband zur »Kritik an queerem Aktivismus« zeigt am <a href="https://archiv.akweb.de/ak_s/ak628/20.htm" aria-label="Artikel in analyse & kritik lesen">infamen Umgang mit zwei Buchautoren</a>, denen aufgrund ihrer Kritik an schwuler Identitätspolitik der Vorwurf des »homosexuellen Selbsthasses« gemacht wird, dass die Mehrheit der Beiträge gegen ideologische Abweichler in Wahrheit genau die gleichen autoritären Beißreflexe an den Tag legt, die sie bei anderen aufgeregt beklagt.
