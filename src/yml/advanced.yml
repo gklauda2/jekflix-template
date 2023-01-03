@@ -1,6 +1,6 @@
 baseurl: ""
-url: "https://www.georgklauda.de"
-google_analytics: G-BW4MPVXY52
+url: https://www.georgklauda.de
+google_analytics: ""
 language: de
 categories_folder: category
 sent_message_url: /contact/message-sent/
