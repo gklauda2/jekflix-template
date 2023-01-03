@@ -87,8 +87,10 @@
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 {% endcomment %}
 
+{% if site.google_analytics %}
 <!-- Include Google Analytics script -->
 {% include stats.html %}
+{% endif %}
 
 <!-- Include extra scripts -->
 {% include extra-js.html %}
